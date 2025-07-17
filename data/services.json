@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Haircut",
+    "provider": "Salon",
+    "price": 300,
+    "createdAt": "2024-07-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Facial",
+    "provider": "Beauty Hub",
+    "price": 500,
+    "createdAt": "2024-07-01T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Massage",
+    "provider": "Wellness Spa",
+    "price": 800,
+    "createdAt": "2024-07-01T10:00:00.000Z"
+  }
+]
